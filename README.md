@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astadlm
-- 👀 I’m interested in HTML/CSS and PHP
-- 🌱 I’m currently learning PHP and JS
+- 👀 I’m interested in HTML/CSS, JS and PHP
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on cool web projects
 - 📫 How to reach me: andreas.stadlmayr@aol.com
 
